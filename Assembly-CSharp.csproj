@@ -58,14 +58,16 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.2.0b13\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scenes\Scripts\Crounching.cs" />
-    <Compile Include="Assets\Scenes\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\Scenes\Scripts\BulletCollision.cs" />
-    <Compile Include="Assets\Scenes\Scripts\CameraPos.cs" />
-    <Compile Include="Assets\Scenes\Scripts\GunShooting1.cs" />
-    <Compile Include="Assets\Scenes\Scripts\Bullet.cs" />
-    <Compile Include="Assets\Scenes\Scripts\Movement.cs" />
-    <Compile Include="Assets\Scenes\Scripts\PlayerGetHit.cs" />
+    <Compile Include="Assets\Scenes\Player Scripts\Crounching.cs" />
+    <Compile Include="Assets\Scenes\Player Scripts\MovePLayer.cs" />
+    <Compile Include="Assets\Scenes\Player Scripts\BulletCollision.cs" />
+    <Compile Include="Assets\Scenes\Player Scripts\Bullet.cs" />
+    <Compile Include="Assets\Scenes\Dog scripts\dogwalk.cs" />
+    <Compile Include="Assets\Scenes\Dog scripts\DogsSpawn.cs" />
+    <Compile Include="Assets\Scenes\Player Scripts\CameraPos.cs" />
+    <Compile Include="Assets\Scenes\Player Scripts\PlayerGetHit.cs" />
+    <Compile Include="Assets\Scenes\Player Scripts\Movement.cs" />
+    <Compile Include="Assets\Scenes\Player Scripts\GunShooting1.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
